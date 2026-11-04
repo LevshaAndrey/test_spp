@@ -1,5 +1,5 @@
 function main(){
-    confirm.log("He world")
+    console.log("He world")
 }
 
 main()

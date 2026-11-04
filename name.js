@@ -1,6 +1,6 @@
 function main(){
-    confirm.log("Second file")
-    confirm.log("Second user commit")
+    console.log("Second file")
+    console.log("Second user commit")
 }
 
 main()
